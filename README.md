@@ -4,7 +4,7 @@ This is a code I used in following video:
 
 Damage model using VUSDFLD subroutine in Abaqus | Hyperelastic damage model
 
-Link of video: 
+Link of video: https://youtu.be/_IBvSMTeGmg
 
 Email: notrealengineering@gmail.com
 
